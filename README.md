@@ -1,4 +1,11 @@
-# accountbook
-Repository for the accounts book webapp
+# Expense Tracker
+Repository for the expense tracker webapp project
 
-Note: Due to changes in Google's authentication policies, the Google OAuth doesn't work properly right now. Will fix it whenever I get time.
+# Technologies
+- Python, Django, CI/CD, SQL
+- HTML, CSS, JS
+
+Note: 
+1. Due to changes in Google's authentication policies, the Google OAuth doesn't work properly right now.
+2. Due to site hosting costs, the site isn't hosted anywhere currently.
+
